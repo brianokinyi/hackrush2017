@@ -1,5 +1,8 @@
 # hackrush2017
 What is Git and Why you should use it
+~Brian Manoti Okinyi
+https://github.com/brianokinyi
+
 GIT
 github.com
 
